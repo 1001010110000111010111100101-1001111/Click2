@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.12 FATAL_ERROR)
+
+project(Click)
+
+add_executable(Click src/main.cpp)
