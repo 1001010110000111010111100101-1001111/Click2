@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Alienware\Desktop\move_gemacht\Cpp\repositorium\Clicker\external\glad\src\glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Alienware\Desktop\move_gemacht\Cpp\repositorium\Clicker\external\glad\include\glad\glad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Alienware\Desktop\move_gemacht\Cpp\repositorium\Clicker\external\glad\CmakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{6BFE4879-1E09-3A38-85B7-F3D08D0C77C5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{44FD4827-FB67-3344-BC27-196B165E4101}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

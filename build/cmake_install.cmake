@@ -34,7 +34,8 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/Alienware/Desktop/move_gemacht/Cpp/repositorium/Clicker/build/externel/glfw/cmake_install.cmake")
+  include("C:/Users/Alienware/Desktop/move_gemacht/Cpp/repositorium/Clicker/build/external/glfw/cmake_install.cmake")
+  include("C:/Users/Alienware/Desktop/move_gemacht/Cpp/repositorium/Clicker/build/external/glad/cmake_install.cmake")
 
 endif()
 

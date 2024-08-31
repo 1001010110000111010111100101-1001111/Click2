@@ -1,6 +1,8 @@
 C:/Users/Alienware/Desktop/move_gemacht/Cpp/repositorium/Clicker/build/CMakeFiles/Click.dir
 C:/Users/Alienware/Desktop/move_gemacht/Cpp/repositorium/Clicker/build/CMakeFiles/ALL_BUILD.dir
 C:/Users/Alienware/Desktop/move_gemacht/Cpp/repositorium/Clicker/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/Alienware/Desktop/move_gemacht/Cpp/repositorium/Clicker/build/externel/glfw/CMakeFiles/ALL_BUILD.dir
-C:/Users/Alienware/Desktop/move_gemacht/Cpp/repositorium/Clicker/build/externel/glfw/src/CMakeFiles/glfw.dir
-C:/Users/Alienware/Desktop/move_gemacht/Cpp/repositorium/Clicker/build/externel/glfw/src/CMakeFiles/update_mappings.dir
+C:/Users/Alienware/Desktop/move_gemacht/Cpp/repositorium/Clicker/build/external/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/Alienware/Desktop/move_gemacht/Cpp/repositorium/Clicker/build/external/glfw/src/CMakeFiles/glfw.dir
+C:/Users/Alienware/Desktop/move_gemacht/Cpp/repositorium/Clicker/build/external/glfw/src/CMakeFiles/update_mappings.dir
+C:/Users/Alienware/Desktop/move_gemacht/Cpp/repositorium/Clicker/build/external/glad/CMakeFiles/glad.dir
+C:/Users/Alienware/Desktop/move_gemacht/Cpp/repositorium/Clicker/build/external/glad/CMakeFiles/ALL_BUILD.dir

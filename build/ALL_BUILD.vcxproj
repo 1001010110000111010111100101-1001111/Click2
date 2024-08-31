@@ -177,7 +177,11 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <Project>{B16A11BC-A962-336B-9465-645FBDFAF81E}</Project>
       <Name>Click</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\Alienware\Desktop\move_gemacht\Cpp\repositorium\Clicker\build\externel\glfw\src\glfw.vcxproj">
+    <ProjectReference Include="C:\Users\Alienware\Desktop\move_gemacht\Cpp\repositorium\Clicker\build\external\glad\glad.vcxproj">
+      <Project>{3E31DDEC-9839-3CA3-BC0D-D045DAF8B804}</Project>
+      <Name>glad</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Alienware\Desktop\move_gemacht\Cpp\repositorium\Clicker\build\external\glfw\src\glfw.vcxproj">
       <Project>{78424D52-9509-3A9B-B1F4-6546ED7D7C70}</Project>
       <Name>glfw</Name>
     </ProjectReference>
