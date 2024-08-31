@@ -1,0 +1,10 @@
+^C:\USERS\ALIENWARE\DESKTOP\MOVE_GEMACHT\CPP\REPOSITORIUM\CLICKER\EXTERNEL\GLFW\SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Alienware/Desktop/move_gemacht/Cpp/repositorium/Clicker -BC:/Users/Alienware/Desktop/move_gemacht/Cpp/repositorium/Clicker/build --check-stamp-file C:/Users/Alienware/Desktop/move_gemacht/Cpp/repositorium/Clicker/build/externel/glfw/src/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Alienware\Desktop\move_gemacht\Cpp\repositorium\Clicker\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Alienware\Desktop\move_gemacht\Cpp\repositorium\Clicker\CmakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{44FD4827-FB67-3344-BC27-196B165E4101}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

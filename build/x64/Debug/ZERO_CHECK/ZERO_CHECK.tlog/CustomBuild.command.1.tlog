@@ -1,0 +1,10 @@
+^C:\USERS\ALIENWARE\DESKTOP\MOVE_GEMACHT\CPP\REPOSITORIUM\CLICKER\BUILD\CMAKEFILES\51D1DD9557B8CA58A47894E0FAA37C2A\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Alienware/Desktop/move_gemacht/Cpp/repositorium/Clicker -BC:/Users/Alienware/Desktop/move_gemacht/Cpp/repositorium/Clicker/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Alienware/Desktop/move_gemacht/Cpp/repositorium/Clicker/build/Click.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
